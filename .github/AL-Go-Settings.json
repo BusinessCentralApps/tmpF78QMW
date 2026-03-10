@@ -4,5 +4,6 @@
   "type": "PTE",
   "useCompilerFolder": false,
   "templateUrl": "https://github.com/businesscentralapps/tmpRwqwnS-PTE@main",
-  "doNotPublishApps": false
+  "doNotPublishApps": false,
+  "templateSha": "73c033d465372a262e1140d9f98935546c48a41c"
 }
